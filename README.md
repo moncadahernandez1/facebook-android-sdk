@@ -1,5 +1,4 @@
-Facebook SDK for Android
-========================
+
 [![Run testsuite with gradle](https://github.com/facebook/facebook-android-sdk/actions/workflows/verifybuild.yml/badge.svg)](https://github.com/facebook/facebook-android-sdk/actions/workflows/verifybuild.yml)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.facebook.android/facebook-android-sdk/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/com.facebook.android/facebook-android-sdk)
 
@@ -128,8 +127,6 @@ DEVELOPER TERMS
 
 - You may limit your sharing of information with us by updating the Insights control in the developer tool (https://developers.facebook.com/apps/[app_id]/settings/advanced).
 
-- If you use a Facebook integration, including to share information with us, you agree and confirm that you have provided appropriate and sufficiently prominent notice to and obtained the appropriate consent from your users regarding such collection, use, and disclosure (including, at a minimum, through your privacy policy). You further agree that you will not share information with us about children under the age of 13.
+- If you use a Facebook integration, including to share information with us, you agree and confirm that you 
 
-- You agree to comply with all applicable laws and regulations and also agree to our Terms (https://www.facebook.com/policies/), including our Platform Policies (https://developers.facebook.com/policy/) and Advertising Guidelines, as applicable (https://www.facebook.com/ad_guidelines.php).
-
-By using the Facebook SDK for Android you agree to these terms.
+- You agree to comply with all applicable laws and regulations and also agree to our Terms (https://
